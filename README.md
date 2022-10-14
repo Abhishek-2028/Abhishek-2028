@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Abhishek-2028
 - 👀 I’m interested in python,data science,machine learning,AI,java script,html,css....
-- 🌱 I’m currently learning java script,python..
-- 💞️ I’m looking to collaborate on python projects,machine learning basics..
+- I'm Web developer
 - 📫 How to reach me -- abhishekkolaskar2001gmail.com
 
 <!---
