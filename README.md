@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Abhishek-2028
-- 👀 I’m interested in python,data science,machine learning,AI,java script,html,css....
-- I'm Web developer
-- 📫 How to reach me -- abhishekkolaskar2001gmail.com
+- 👋 Hi, I’m ABHISHEK
+- I'm Web developer(React.js.mongodb, express.js,node.js, frontend developer, mern stack developer)
+- 📫 How to reach me -- dhananjaykolaskar2001@gmail.com
 
 <!---
 Abhishek-2028/Abhishek-2028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
